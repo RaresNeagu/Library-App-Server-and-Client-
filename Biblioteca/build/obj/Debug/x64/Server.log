@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (C:\cursuri\ModernC++\Biblioteca\Biblioteca\build\obj\Debug\x64\) contains files shared from another project (Biblioteca.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Server.cpp
+C:\cursuri\ModernC++\Biblioteca\Biblioteca\Server\Server.cpp(312,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\cursuri\ModernC++\Biblioteca\Biblioteca\Server\Server.cpp(318,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ServerMain.cpp
+  Generating Code...
+  Server.vcxproj -> C:\cursuri\ModernC++\Biblioteca\Biblioteca\build\bin\Debug\x64\Server.exe
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\openal32.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-audio-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-audio-d-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-graphics-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-graphics-d-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-network-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-network-d-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-system-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-system-d-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-window-2.dll
+  C:\cursuri\ModernC++\Biblioteca\Biblioteca\ThirdParty\bin\x64\sfml-window-d-2.dll
+  11 File(s) copied
